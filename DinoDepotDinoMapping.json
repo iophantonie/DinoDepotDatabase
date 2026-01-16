@@ -28,7 +28,7 @@
       "fromClass": "/Z-DinoVariants/z-firewyvern/Z_Aberrant_Fire_Wyvern_Character_BP.Z_Aberrant_Fire_Wyvern_Character_BP",
       "toClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire"
     },
-	{
+    {
       "fromClass": "/Z-DinoVariants/z-iguanodon/Z_Aberrant_Iguanodon_Character_BP.Z_Aberrant_Iguanodon_Character_BP",
       "toClass": "/Game/PrimalEarth/Dinos/Iguanodon/Iguanodon_Character_BP_Aberrant.Iguanodon_Character_BP_Aberrant"
     },
@@ -56,7 +56,7 @@
       "fromClass": "/Z-DinoVariants/z-argentavis/Z_Argentavis_Character_BP.Z_Argentavis_Character_BP",
       "toClass": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP"
     },
-	{
+    {
       "fromClass": "/Z-DinoVariants/z-bary/Z_Bary_Character_BP.Z_Bary_Character_BP",
       "toClass": "/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP.Baryonyx_Character_BP"
     },
@@ -84,7 +84,7 @@
       "fromClass": "/Z-DinoVariants/z-cera/Z_Ceratosaurus_Character_BP_ASA.Z_Ceratosaurus_Character_BP_ASA",
       "toClass": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA.Ceratosaurus_Character_BP_ASA"
     },
-	{
+    {
       "fromClass": "/Z-DinoVariants/z-deinosuchus/Z_Deinosuchus_Character_BP.Z_Deinosuchus_Character_BP",
       "toClass": "/Game/ASA/Dinos/Deinosuchus/Deinosuchusasa_Character_BP.Deinosuchusasa_Character_BP"
     },
@@ -112,7 +112,7 @@
       "fromClass": "/Z-DinoVariants/z-doedicurus/Z_Doed_Character_BP.Z_Doed_Character_BP",
       "toClass": "/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP"
     },
-	{
+    {
       "fromClass": "/Z-DinoVariants/z-dungbeetle/Z_DungBeetle_Character_BP.Z_DungBeetle_Character_BP",
       "toClass": "/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP.DungBeetle_Character_BP"
     },
@@ -140,7 +140,7 @@
       "fromClass": "/Z-DinoVariants/z-giga/Z_Gigant_Character_BP.Z_Gigant_Character_BP",
       "toClass": "/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP"
     },
-	{
+    {
       "fromClass": "/Z-DinoVariants/z-gigantoraptor/Z_Gigantoraptor_Character_BP.Z_Gigantoraptor_Character_BP",
       "toClass": "/Game/ASA/Dinos/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP"
     },
@@ -168,7 +168,7 @@
       "fromClass": "/Z-DinoVariants/z-moth/Z_Moth_Character_BP.Z_Moth_Character_BP",
       "toClass": "/Game/ScorchedEarth/Dinos/Moth/Moth_Character_BP.Moth_Character_BP"
     },
-	{
+    {
       "fromClass": "/Z-DinoVariants/z-megalania/Z_Megalania_Character_BP.Z_Megalania_Character_BP",
       "toClass": "/Game/PrimalEarth/Dinos/Megalania/Megalania_Character_BP.Megalania_Character_BP"
     },
@@ -196,7 +196,7 @@
       "fromClass": "/Z-DinoVariants/z-parasaur/Z_Parasaur_Character_BP.Z_Parasaur_Character_BP",
       "toClass": "/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP"
     },
-	{
+    {
       "fromClass": "/Z-DinoVariants/z-procoptodon/Z_Procoptodon_Character_BP.Z_Procoptodon_Character_BP",
       "toClass": "/Game/PrimalEarth/Dinos/Procoptodon/Procoptodon_Character_BP.Procoptodon_Character_BP"
     },
@@ -248,7 +248,7 @@
       "fromClass": "/Z-DinoVariants/z-boa/Z_Boa_Character_BP.Z_Boa_Character_BP",
       "toClass": "/Game/PrimalEarth/Dinos/BoaFrill/BoaFrill_Character_BP.BoaFrill_Character_BP"
     },
-	{
+    {
       "fromClass": "/Z-DinoVariants/z-trike/Z_Trike_Character_BP.Z_Trike_Character_BP",
       "toClass": "/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP"
     },
@@ -263,6 +263,6 @@
     {
       "fromClass": "/Z-DinoVariants/z-yutyrannus/Z_Yutyrannus_Character_BP.Z_Yutyrannus_Character_BP",
       "toClass": "/Game/PrimalEarth/Dinos/Yutyrannus/Yutyrannus_Character_BP.Yutyrannus_Character_BP"
-    },
+    }
   ]
 }
