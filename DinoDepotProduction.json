@@ -1,0 +1,166 @@
+{
+  "production": [
+    {
+      "dinoType": "Blueprint'/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP'",
+      "produces": [
+        {
+          "intervalSeconds": 240.0,
+          "alternateItemChance": 0.0,
+          "items": [],
+          "alternateItems": []
+        }
+      ]
+    },
+    {
+      "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP'",
+      "produces": [
+        {
+          "intervalSeconds": 60.0,
+          "alternateItemChance": 0.0,
+          "items": [],
+          "alternateItems": []
+        },
+        {
+          "intervalSeconds": 3600.0,
+          "alternateItemChance": 0.0,
+          "items": [],
+          "alternateItems": []
+        }
+      ]
+    },
+    {
+      "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP_Aberrant.Achatina_Character_BP_Aberrant'",
+      "produces": [
+        {
+          "intervalSeconds": 60.0,
+          "alternateItemChance": 0.0,
+          "items": [],
+          "alternateItems": []
+        },
+        {
+          "intervalSeconds": 3600.0,
+          "alternateItemChance": 0.0,
+          "items": [],
+          "alternateItems": []
+        }
+      ]
+    },
+    {
+      "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Basilosaurus/Basilosaurus_Character_BP.Basilosaurus_Character_BP'",
+      "produces": [
+        {
+          "intervalSeconds": 240.0,
+          "alternateItemChance": 0.0,
+          "items": [],
+          "alternateItems": []
+        }
+      ]
+    },
+    {
+      "dinoType": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Ocean_Basilosaurus/Ocean_Basilosaurus_Character_BP.Ocean_Basilosaurus_Character_BP'",
+      "produces": [
+        {
+          "intervalSeconds": 240.0,
+          "alternateItemChance": 0.0,
+          "items": [],
+          "alternateItems": []
+        }
+      ]
+    },
+    {
+      "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP'",
+      "produces": [
+        {
+          "intervalSeconds": 240.0,
+          "alternateItemChance": 0.0,
+          "items": [],
+          "alternateItems": []
+        }
+      ]
+    },
+    {
+      "dinoType": "Blueprint'/Game/Genesis/Dinos/GiantTurtle/GiantTurtle_Character_BP.GiantTurtle_Character_BP'",
+      "produces": [
+        {
+          "intervalSeconds": 240.0,
+          "alternateItemChance": 0.0,
+          "items": [],
+          "alternateItems": []
+        },
+        {
+          "intervalSeconds": 240.0,
+          "alternateItemChance": 0.0,
+          "items": [],
+          "alternateItems": []
+        }
+      ]
+    },
+    {
+      "dinoType": "Blueprint'/Game/Genesis2/Dinos/TekStrider/TekStrider_Character_BP.TekStrider_Character_BP'",
+      "produces": [
+        {
+          "intervalSeconds": 240.0,
+          "alternateItemChance": 0.0,
+          "items": [],
+          "alternateItems": []
+        }
+      ]
+    },
+    {
+      "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP'",
+      "produces": [
+        {
+          "intervalSeconds": 240.0,
+          "alternateItemChance": 0.0,
+          "items": [],
+          "alternateItems": []
+        }
+      ]
+    },
+    {
+      "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP.DungBeetle_Character_BP'",
+      "produces": [
+        {
+          "intervalSeconds": 900.0,
+          "alternateItemChance": 0.0,
+          "items": [],
+          "alternateItems": []
+        },
+        {
+          "intervalSeconds": 900.0,
+          "alternateItemChance": 0.0,
+          "items": [],
+          "alternateItems": []
+        }
+      ]
+    },
+    {
+      "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP_Aberrant.DungBeetle_Character_BP_Aberrant'",
+      "produces": [
+        {
+          "intervalSeconds": 900.0,
+          "alternateItemChance": 0.0,
+          "items": [],
+          "alternateItems": []
+        },
+        {
+          "intervalSeconds": 900.0,
+          "alternateItemChance": 0.0,
+          "items": [],
+          "alternateItems": []
+        }
+      ]
+    },
+    {
+      "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Archaeopteryx/Archa_Character_BP.Archa_Character_BP'",
+      "produces": [
+        {
+          "intervalSeconds": 300.0,
+          "alternateItemChance": 0.0,
+          "items": [],
+          "alternateItems": []
+        }
+      ]
+    }
+  ]
+}
