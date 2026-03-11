@@ -205,7 +205,7 @@
       "toClass": "/Game/PrimalEarth/Dinos/Basilosaurus/Basilosaurus_Character_BP.Basilosaurus_Character_BP"
     },
     {
-      "fromClass": "/AstraeosCreatures/Cyclops/Cyclops_Character_BP",
+      "fromClass": "/AstraeosCreatures/Cyclops/Cyclops_Character_BP.Cyclops_Character_BP",
       "toClass": "/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP"
     }
   ]
