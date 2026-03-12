@@ -1,8 +1,8 @@
 {
   "dinoMappings": [
     {
-      "fromClass": "/SDinoVariants/S-Allosaurus/S-Allo_Character_BP.S-Allo_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP"
+      "fromClass": "/SDinoVariants/S-Allosaurus/S-Allo_Character_BP.S-Allo_Character_BP_C",
+      "toClass": "/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP_C"
     },
     {
       "fromClass": "/SDinoVariants/S-Ankylosaurus/S-Ankylo_Character_BP.S-Ankylo_Character_BP",
