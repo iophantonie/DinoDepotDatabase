@@ -106,7 +106,7 @@
     },
     {
       "fromClass": "/SDinoVariants/S-Megalosaurus/S-Megalosaurus_Character_BP.S-Megalosaurus_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Megalosaurus/Megalosaurus_Character_BP.Megalosaurus_Character_BP"
+      "toClass": "/Game/PrimalEarth/Dinos/Megalosaurus/Megalosaurus_Character_BP_Aberrant.Megalosaurus_Character_BP_Aberrant"
     },
     {
       "fromClass": "/SDinoVariants/S-Megaraptor/S-Megaraptor_Character_BP.S-Megaraptor_Character_BP",
@@ -166,7 +166,7 @@
     },
     {
       "fromClass": "/SDinoVariants/S-Spinosaurus/S-Spino_Character_BP.S-Spino_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP.Spino_Character_BP"
+      "toClass": "/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP_Aberrant.Spino_Character_BP_Aberrant"
     },
     {
       "fromClass": "/SDinoVariants/S-Therizinosaur/S-Therizino_Character_BP.S-Therizino_Character_BP",
@@ -178,7 +178,7 @@
     },
     {
       "fromClass": "/SDinoVariants/S-Trike/S-Trike_Character_BP.S-Trike_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP"
+      "toClass": "/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP_Aberrant.Trike_Character_BP_Aberrant"
     },
     {
       "fromClass": "/SDinoVariants/S-Unicorn/S-Equus_Character_BP_Unicorn.S-Equus_Character_BP_Unicorn",
