@@ -1,220 +1,220 @@
 {
   "dinoMappings": [
     {
-      "fromClass": "/SDinoVariants/S-Allosaurus/S-Allo_Character_BP.S-Allo_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP"
+      "toClass": "/SDinoVariants/S-Allosaurus/S-Allo_Character_BP.S-Allo_Character_BP_C",
+      "fromClass": "/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP_C"
     },
     {
-      "fromClass": "/SDinoVariants/S-Ankylosaurus/S-Ankylo_Character_BP.S-Ankylo_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP"
+      "toClass": "/SDinoVariants/S-Ankylosaurus/S-Ankylo_Character_BP.S-Ankylo_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Andrewsarchus/S-Andrewsarchus_Character_BP.S-Andrewsarchus_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Daeodon/Daeodon_Character_BP.Daeodon_Character_BP"
+      "toClass": "/SDinoVariants/S-Andrewsarchus/S-Andrewsarchus_Character_BP.S-Andrewsarchus_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Daeodon/Daeodon_Character_BP.Daeodon_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Basilosaurus/S-Basilosaurus_Character_BP.S-Basilosaurus_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Basilosaurus/Basilosaurus_Character_BP.Basilosaurus_Character_BP"
+      "toClass": "/SDinoVariants/S-Basilosaurus/S-Basilosaurus_Character_BP.S-Basilosaurus_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Basilosaurus/Basilosaurus_Character_BP.Basilosaurus_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Carcha/S-Carcha_Character_BP.S-Carcha_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP'"
+      "toClass": "/SDinoVariants/S-Carcha/S-Carcha_Character_BP.S-Carcha_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP'"
     },
     {
-      "fromClass": "/SDinoVariants/S-Cat/S-Cat_Character_BP.S-Cat_Character_BP",
-      "toClass": "/Game/ASA/Dinos/Cat/CAT_Character_BP.CAT_Character_BP"
+      "toClass": "/SDinoVariants/S-Cat/S-Cat_Character_BP.S-Cat_Character_BP",
+      "fromClass": "/Game/ASA/Dinos/Cat/CAT_Character_BP.CAT_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Argentavis/S-Argent_Character_BP.S-Argent_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP"
+      "toClass": "/SDinoVariants/S-Argentavis/S-Argent_Character_BP.S-Argent_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Casteroides/S-Beaver_Character_BP.S-Beaver_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP"
+      "toClass": "/SDinoVariants/S-Casteroides/S-Beaver_Character_BP.S-Beaver_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Cerato/S-Ceratosaurus_Character_BP_ASA.S-Ceratosaurus_Character_BP_ASA",
-      "toClass": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA.Ceratosaurus_Character_BP_ASA"
+      "toClass": "/SDinoVariants/S-Cerato/S-Ceratosaurus_Character_BP_ASA.S-Ceratosaurus_Character_BP_ASA",
+      "fromClass": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA.Ceratosaurus_Character_BP_ASA"
     },
     {
-      "fromClass": "/SDinoVariants/S-Daeodon/S-Daeodon_Character_BP.S-Daeodon_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Daeodon/Daeodon_Character_BP.Daeodon_Character_BP"
+      "toClass": "/SDinoVariants/S-Daeodon/S-Daeodon_Character_BP.S-Daeodon_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Daeodon/Daeodon_Character_BP.Daeodon_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Deinonychus/S-Deinonychus_Character_BP.S-Deinonychus_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Raptor/Uberraptor/Deinonychus_Character_BP.Deinonychus_Character_BP"
+      "toClass": "/SDinoVariants/S-Deinonychus/S-Deinonychus_Character_BP.S-Deinonychus_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Raptor/Uberraptor/Deinonychus_Character_BP.Deinonychus_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Deinosuchus/S-DeinosuchusASA_Character_BP.S-DeinosuchusASA_Character_BP",
-      "toClass": "/Game/ASA/Dinos/Deinosuchus/DeinosuchusASA_Character_BP.DeinosuchusASA_Character_BP"
+      "toClass": "/SDinoVariants/S-Deinosuchus/S-DeinosuchusASA_Character_BP.S-DeinosuchusASA_Character_BP",
+      "fromClass": "/Game/ASA/Dinos/Deinosuchus/DeinosuchusASA_Character_BP.DeinosuchusASA_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Desmodus/S-Desmodus_Character_BP.S-Desmodus_Character_BP",
-      "toClass": "/Game/Fjordur/Dinos/Desmodus/Desmodus_Character_BP.Desmodus_Character_BP"
+      "toClass": "/SDinoVariants/S-Desmodus/S-Desmodus_Character_BP.S-Desmodus_Character_BP",
+      "fromClass": "/Game/Fjordur/Dinos/Desmodus/Desmodus_Character_BP.Desmodus_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Direbear/S-Direbear_Character_BP.S-Direbear_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Direbear/Direbear_Character_BP.Direbear_Character_BP"
+      "toClass": "/SDinoVariants/S-Direbear/S-Direbear_Character_BP.S-Direbear_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Direbear/Direbear_Character_BP.Direbear_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Direwolf/S-Direwolf_Character_BP.S-Direwolf_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Direwolf/Direwolf_Character_BP.Direwolf_Character_BP"
+      "toClass": "/SDinoVariants/S-Direwolf/S-Direwolf_Character_BP.S-Direwolf_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Direwolf/Direwolf_Character_BP.Direwolf_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Doedicurus/S-Doed_Character_BP.S-Doed_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP"
+      "toClass": "/SDinoVariants/S-Doedicurus/S-Doed_Character_BP.S-Doed_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Dunkleosteus/S-Dunkle_Character_BP.S-Dunkle_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Dunkleosteus/Dunkle_Character_BP.Dunkle_Character_BP"
+      "toClass": "/SDinoVariants/S-Dunkleosteus/S-Dunkle_Character_BP.S-Dunkle_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Dunkleosteus/Dunkle_Character_BP.Dunkle_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Fasolasuchus/S-Fasola_Character_BP.S-Fasola_Character_BP",
-      "toClass": "/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP.Fasola_Character_BP"
+      "toClass": "/SDinoVariants/S-Fasolasuchus/S-Fasola_Character_BP.S-Fasola_Character_BP",
+      "fromClass": "/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP.Fasola_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Fire.S-Wyvern_Character_BP_Fire",
-      "toClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire"
+      "toClass": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Fire.S-Wyvern_Character_BP_Fire",
+      "fromClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire"
     },
     {
-      "fromClass": "/SDinoVariants/S-Fenrir/S-Fenrir_Character_BP.S-Fenrir_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Direwolf/Direwolf_Character_BP.Direwolf_Character_BP"
+      "toClass": "/SDinoVariants/S-Fenrir/S-Fenrir_Character_BP.S-Fenrir_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Direwolf/Direwolf_Character_BP.Direwolf_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Lightning.S-Wyvern_Character_BP_Lightning",
-      "toClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning"
+      "toClass": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Lightning.S-Wyvern_Character_BP_Lightning",
+      "fromClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning"
     },
     {
-      "fromClass": "/SDinoVariants/S-Griffin/S-Griffin_Character_BP.S-Griffin_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP"
+      "toClass": "/SDinoVariants/S-Griffin/S-Griffin_Character_BP.S-Griffin_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-IceWyvern/S-Wyvern_Character_BP_Ice.S-Wyvern_Character_BP_Ice",
-      "toClass": "/Game/ASA/Dinos/IceWyvern/Wyvern_Character_BP_Ice.Wyvern_Character_BP_Ice"
+      "toClass": "/SDinoVariants/S-IceWyvern/S-Wyvern_Character_BP_Ice.S-Wyvern_Character_BP_Ice",
+      "fromClass": "/Game/ASA/Dinos/IceWyvern/Wyvern_Character_BP_Ice.Wyvern_Character_BP_Ice"
     },
     {
-      "fromClass": "/SDinoVariants/S-Maeguana/S-Maelizard_Character_BP.S-Maelizard_Character_BP",
-      "toClass": "/Game/ASA/Dinos/Maelizard/Maelizard_Character_BP.Maelizard_Character_BP"
+      "toClass": "/SDinoVariants/S-Maeguana/S-Maelizard_Character_BP.S-Maelizard_Character_BP",
+      "fromClass": "/Game/ASA/Dinos/Maelizard/Maelizard_Character_BP.Maelizard_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Maewing/S-MilkGlider_Character_BP.S-MilkGlider_Character_BP",
-      "toClass": "/Game/ASA/Dinos/Maelizard/Maelizard_Character_BP.Maelizard_Character_BP"
+      "toClass": "/SDinoVariants/S-Maewing/S-MilkGlider_Character_BP.S-MilkGlider_Character_BP",
+      "fromClass": "/Game/ASA/Dinos/Maelizard/Maelizard_Character_BP.Maelizard_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Managarmr/S-IceJumper_Character_BP.S-IceJumper_Character_BP",
-      "toClass": "/Game/Extinction/Dinos/IceJumper/IceJumper_Character_BP.IceJumper_Character_BP"
+      "toClass": "/SDinoVariants/S-Managarmr/S-IceJumper_Character_BP.S-IceJumper_Character_BP",
+      "fromClass": "/Game/Extinction/Dinos/IceJumper/IceJumper_Character_BP.IceJumper_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Mantis/S-Mantis_Character_BP.S-Mantis_Character_BP",
-      "toClass": "/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP"
+      "toClass": "/SDinoVariants/S-Mantis/S-Mantis_Character_BP.S-Mantis_Character_BP",
+      "fromClass": "/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Megalodon/S-Megalodon_Character_BP.S-Megalodon_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Megalodon/Megalodon_Character_BP.Megalodon_Character_BP"
+      "toClass": "/SDinoVariants/S-Megalodon/S-Megalodon_Character_BP.S-Megalodon_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Megalodon/Megalodon_Character_BP.Megalodon_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Megalosaurus/S-Megalosaurus_Character_BP.S-Megalosaurus_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Megalosaurus/Megalosaurus_Character_BP_Aberrant.Megalosaurus_Character_BP_Aberrant"
+      "toClass": "/SDinoVariants/S-Megalosaurus/S-Megalosaurus_Character_BP.S-Megalosaurus_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Megalosaurus/Megalosaurus_Character_BP_Aberrant.Megalosaurus_Character_BP_Aberrant"
     },
     {
-      "fromClass": "/SDinoVariants/S-Megaraptor/S-Megaraptor_Character_BP.S-Megaraptor_Character_BP",
-      "toClass": "/Game/ASA/Dinos/Megaraptor/ValMegaraptor_Character_BP.ValMegaraptor_Character_BP"
+      "toClass": "/SDinoVariants/S-Megaraptor/S-Megaraptor_Character_BP.S-Megaraptor_Character_BP",
+      "fromClass": "/Game/ASA/Dinos/Megaraptor/ValMegaraptor_Character_BP.ValMegaraptor_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Mosa/S-Mosa_Character_BP.S-Mosa_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP.Mosa_Character_BP"
+      "toClass": "/SDinoVariants/S-Mosa/S-Mosa_Character_BP.S-Mosa_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP.Mosa_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Ossidon/S-SnowMonster_Character_BP.S-SnowMonster_Character_BP",
-      "toClass": "/Game/LostColony/Dinos/SnowMonster/SnowMonster_Character_BP.SnowMonster_Character_BP"
+      "toClass": "/SDinoVariants/S-Ossidon/S-SnowMonster_Character_BP.S-SnowMonster_Character_BP",
+      "fromClass": "/Game/LostColony/Dinos/SnowMonster/SnowMonster_Character_BP.SnowMonster_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Otter/S-Otter_Character_BP.S-Otter_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Otter/Otter_Character_BP.Otter_Character_BP"
+      "toClass": "/SDinoVariants/S-Otter/S-Otter_Character_BP.S-Otter_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Otter/Otter_Character_BP.Otter_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Plesiosaur/S-Plesiosaur_Character_BP.S-Plesiosaur_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Plesiosaur/Plesiosaur_Character_BP.Plesiosaur_Character_BP"
+      "toClass": "/SDinoVariants/S-Plesiosaur/S-Plesiosaur_Character_BP.S-Plesiosaur_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Plesiosaur/Plesiosaur_Character_BP.Plesiosaur_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Poison.S-Wyvern_Character_BP_Poison",
-      "toClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison"
+      "toClass": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Poison.S-Wyvern_Character_BP_Poison",
+      "fromClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison"
     },
     {
-      "fromClass": "/SDinoVariants/S-Bee/S-QueenBee_Character_BP.S-QueenBee_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP"
+      "toClass": "/SDinoVariants/S-Bee/S-QueenBee_Character_BP.S-QueenBee_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Rex/S-Rex_Character_BP.S-Rex_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP"
+      "toClass": "/SDinoVariants/S-Rex/S-Rex_Character_BP.S-Rex_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Reaper/S-Xenomorph_Character_BP_Male_Tamed.S-Xenomorph_Character_BP_Male_Tamed",
-      "toClass": "/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Male_Tamed.Xenomorph_Character_BP_Male_Tamed"
+      "toClass": "/SDinoVariants/S-Reaper/S-Xenomorph_Character_BP_Male_Tamed.S-Xenomorph_Character_BP_Male_Tamed",
+      "fromClass": "/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Male_Tamed.Xenomorph_Character_BP_Male_Tamed"
     },
     {
-      "fromClass": "/SDinoVariants/S-Reaper/S-Xenomorph_Character_BP_Female.S-Xenomorph_Character_BP_Female",
-      "toClass": "/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Female.Xenomorph_Character_BP_Female"
+      "toClass": "/SDinoVariants/S-Reaper/S-Xenomorph_Character_BP_Female.S-Xenomorph_Character_BP_Female",
+      "fromClass": "/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Female.Xenomorph_Character_BP_Female"
     },
     {
-      "fromClass": "/SDinoVariants/S-Rhynio/S-Rhynio_Character_BP.S-Rhynio_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP"
+      "toClass": "/SDinoVariants/S-Rhynio/S-Rhynio_Character_BP.S-Rhynio_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Rockdrake/S-RockDrake_Character_BP.S-RockDrake_Character_BP",
-      "toClass": "/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP"
+      "toClass": "/SDinoVariants/S-Rockdrake/S-RockDrake_Character_BP.S-RockDrake_Character_BP",
+      "fromClass": "/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Shinehorn/S-LanternGoat_Character_BP.S-LanternGoat_Character_BP",
-      "toClass": "/Game/Aberration/Dinos/LanternGoat/LanternGoat_Character_BP.LanternGoat_Character_BP"
+      "toClass": "/SDinoVariants/S-Shinehorn/S-LanternGoat_Character_BP.S-LanternGoat_Character_BP",
+      "fromClass": "/Game/Aberration/Dinos/LanternGoat/LanternGoat_Character_BP.LanternGoat_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-SnowOwl/S-Owl_Character_BP.S-Owl_Character_BP",
-      "toClass": "/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP"
+      "toClass": "/SDinoVariants/S-SnowOwl/S-Owl_Character_BP.S-Owl_Character_BP",
+      "fromClass": "/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Spinosaurus/S-Spino_Character_BP.S-Spino_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP_Aberrant.Spino_Character_BP_Aberrant"
+      "toClass": "/SDinoVariants/S-Spinosaurus/S-Spino_Character_BP.S-Spino_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP_Aberrant.Spino_Character_BP_Aberrant"
     },
     {
-      "fromClass": "/SDinoVariants/S-Therizinosaur/S-Therizino_Character_BP.S-Therizino_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Therizinosaurus/Therizino_Character_BP.Therizino_Character_BP"
+      "toClass": "/SDinoVariants/S-Therizinosaur/S-Therizino_Character_BP.S-Therizino_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Therizinosaurus/Therizino_Character_BP.Therizino_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Thylacoleo/S-Thylacoleo_Character_BP.S-Thylacoleo_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Thylacoleo/Thylacoleo_Character_BP.Thylacoleo_Character_BP"
+      "toClass": "/SDinoVariants/S-Thylacoleo/S-Thylacoleo_Character_BP.S-Thylacoleo_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Thylacoleo/Thylacoleo_Character_BP.Thylacoleo_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariants/S-Trike/S-Trike_Character_BP.S-Trike_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP_Aberrant.Trike_Character_BP_Aberrant"
+      "toClass": "/SDinoVariants/S-Trike/S-Trike_Character_BP.S-Trike_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP_Aberrant.Trike_Character_BP_Aberrant"
     },
     {
-      "fromClass": "/SDinoVariants/S-Unicorn/S-Equus_Character_BP_Unicorn.S-Equus_Character_BP_Unicorn",
-      "toClass": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP_Unicorn.Equus_Character_BP_Unicorn"
+      "toClass": "/SDinoVariants/S-Unicorn/S-Equus_Character_BP_Unicorn.S-Equus_Character_BP_Unicorn",
+      "fromClass": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP_Unicorn.Equus_Character_BP_Unicorn"
     },
     {
-      "fromClass": "/SDinoVariants/S-Velonasaur/S-Spindles_Character_BP.S-Spindles_Character_BP",
-      "toClass": "/Game/Extinction/Dinos/Spindles/Spindles_Character_BP.Spindles_Character_BP"
+      "toClass": "/SDinoVariants/S-Velonasaur/S-Spindles_Character_BP.S-Spindles_Character_BP",
+      "fromClass": "/Game/Extinction/Dinos/Spindles/Spindles_Character_BP.Spindles_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariantsFantasticTames/Assets/CoreBlueprints/Creatures/S-FireLion/S-FireLion_Character_BP.S-FireLion_Character_BP",
-      "toClass": "/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP"
+      "toClass": "/SDinoVariantsFantasticTames/Assets/CoreBlueprints/Creatures/S-FireLion/S-FireLion_Character_BP.S-FireLion_Character_BP",
+      "fromClass": "/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP"
     },
     {
-      "fromClass": "/SDinoVariantsFantasticTames/Assets/CoreBlueprints/Creatures/S-Pegasus/S-DarkPegasus_Character_BP.S-DarkPegasus_Character_BP",
-      "toClass": "/Game/ASA/Dinos/DarkPegasus/DarkPegasus_Character_BP.DarkPegasus_Character_BP"
+      "toClass": "/SDinoVariantsFantasticTames/Assets/CoreBlueprints/Creatures/S-Pegasus/S-DarkPegasus_Character_BP.S-DarkPegasus_Character_BP",
+      "fromClass": "/Game/ASA/Dinos/DarkPegasus/DarkPegasus_Character_BP.DarkPegasus_Character_BP"
     },
     {
-      "fromClass": "/AstraeosCreatures/Minotaur/Minotaur_Character_BP.Minotaur_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP"
+      "toClass": "/AstraeosCreatures/Minotaur/Minotaur_Character_BP.Minotaur_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP"
     },
     {
-      "fromClass": "/AstraeosCreatures/Seahorse/Seahorse_Character_BP.Seahorse_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP"
+      "toClass": "/AstraeosCreatures/Seahorse/Seahorse_Character_BP.Seahorse_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP"
     },
     {
-      "fromClass": "/AstraeosCreatures/Cyclops/Cyclops_Character_BP.Cyclops_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP"
+      "toClass": "/AstraeosCreatures/Cyclops/Cyclops_Character_BP.Cyclops_Character_BP",
+      "fromClass": "/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP"
     }
   ]
 }
