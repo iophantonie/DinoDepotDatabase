@@ -25,6 +25,14 @@
       "toClass": "/Game/ASA/Dinos/Cat/CAT_Character_BP.CAT_Character_BP"
     },
     {
+      "fromClass": "/SDinoVariants/S-Argentavis/S-Argent_Character_BP.S-Argent_Character_BP",
+      "toClass": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP"
+    },
+    {
+      "fromClass": "/SDinoVariants/S-Casteroides/S-Beaver_Character_BP.S-Beaver_Character_BP",
+      "toClass": "/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP"
+    },
+    {
       "fromClass": "/SDinoVariants/S-Cerato/S-Ceratosaurus_Character_BP_ASA.S-Ceratosaurus_Character_BP_ASA",
       "toClass": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA.Ceratosaurus_Character_BP_ASA"
     },
