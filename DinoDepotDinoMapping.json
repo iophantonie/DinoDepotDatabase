@@ -17,12 +17,24 @@
       "toClass": "/Game/PrimalEarth/Dinos/Basilosaurus/Basilosaurus_Character_BP.Basilosaurus_Character_BP"
     },
     {
+      "fromClass": "/AmissaAdditions/Assets/Dinos/Parrot/AmissaParrot_Character_BP.AmissaParrot_Character_BP",
+      "toClass": "/Game/ScorchedEarth/Dinos/Vulture/Vulture_Character_BP.Vulture_Character_BP"
+    },
+    {
+      "fromClass": "/AmissaAdditions/Assets/Dinos/Chicken/AmissaChicken_Character_BP.AmissaChicken_Character_BP",
+      "toClass": "/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP.Dodo_Character_BP"
+    },
+    {
       "fromClass": "/SDinoVariants/S-Carcha/S-Carcha_Character_BP.S-Carcha_Character_BP",
       "toClass": "/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP'"
     },
     {
       "fromClass": "/SDinoVariants/S-Cat/S-Cat_Character_BP.S-Cat_Character_BP",
       "toClass": "/Game/ASA/Dinos/Cat/CAT_Character_BP.CAT_Character_BP"
+    },
+    {
+      "fromClass": "/AmissaAdditions/Assets/Dinos/MaracawArged/Maracaw_Argent_Character_BP.Maracaw_Argent_Character_BP",
+      "toClass": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP"
     },
     {
       "fromClass": "/SDinoVariants/S-Argentavis/S-Argent_Character_BP.S-Argent_Character_BP",
@@ -77,6 +89,18 @@
       "toClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire"
     },
     {
+      "fromClass": "/AmissaAdditions/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_Fire.AmissaWyvern_Character_BP_Fire",
+      "toClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire"
+    },
+    {
+      "fromClass": "/AmissaAdditions/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_Mountain.AmissaWyvern_Character_BP_Mountain",
+      "toClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire"
+    },
+    {
+      "fromClass": "/AmissaAdditions/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_ShadowWyvern.AmissaWyvern_Character_BP_ShadowWyvern",
+      "toClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire"
+    },
+    {
       "fromClass": "/SDinoVariants/S-Fenrir/S-Fenrir_Character_BP.S-Fenrir_Character_BP",
       "toClass": "/Game/PrimalEarth/Dinos/Direwolf/Direwolf_Character_BP.Direwolf_Character_BP"
     },
@@ -85,8 +109,16 @@
       "toClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning"
     },
     {
+      "fromClass": "/AmissaAdditions/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_Lightning2.AmissaWyvern_Character_BP_Lightning2",
+      "toClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning"
+    },
+    {
       "fromClass": "/SDinoVariants/S-Griffin/S-Griffin_Character_BP.S-Griffin_Character_BP",
       "toClass": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP"
+    },
+    {
+      "fromClass": "/AmissaAdditions/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_Ice.AmissaWyvern_Character_BP_Ice",
+      "toClass": "/Game/ASA/Dinos/IceWyvern/Wyvern_Character_BP_Ice.Wyvern_Character_BP_Ice"
     },
     {
       "fromClass": "/SDinoVariants/S-IceWyvern/S-Wyvern_Character_BP_Ice.S-Wyvern_Character_BP_Ice",
@@ -135,6 +167,10 @@
     {
       "fromClass": "/SDinoVariants/S-Plesiosaur/S-Plesiosaur_Character_BP.S-Plesiosaur_Character_BP",
       "toClass": "/Game/PrimalEarth/Dinos/Plesiosaur/Plesiosaur_Character_BP.Plesiosaur_Character_BP"
+    },
+    {
+      "fromClass": "/AmissaAdditions/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_Poison.AmissaWyvern_Character_BP_Poison",
+      "toClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison"
     },
     {
       "fromClass": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Poison.S-Wyvern_Character_BP_Poison",
