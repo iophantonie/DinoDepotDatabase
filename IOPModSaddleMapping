@@ -1,8 +1,8 @@
 {
   "saddleMappings": [
     {
-      "fromClass": "ModSaddleBPPath",
-      "toClass": "VanillaSaddleBPPath"
+      "fromClass": "/SDinoVariants/S-Andrewsarchus/PrimalItemArmor_S-AndrewsarchusSaddle",
+      "toClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DaeodonSaddle.PrimalItemArmor_DaeodonSaddle"
     },
     {
       "fromClass": "ModSaddleBPPath",
