@@ -1,0 +1,12 @@
+{
+  "saddleMappings": [
+    {
+      "fromClass": "ModSaddleBPPath",
+      "toClass": "VanillaSaddleBPPath"
+    },
+    {
+      "fromClass": "ModSaddleBPPath",
+      "toClass": "VanillaSaddleBPPath"
+    }
+  ]
+}
