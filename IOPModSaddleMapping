@@ -5,8 +5,24 @@
       "toClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DaeodonSaddle.PrimalItemArmor_DaeodonSaddle"
     },
     {
-      "fromClass": "ModSaddleBPPath",
-      "toClass": "VanillaSaddleBPPath"
+      "fromClass": "/SDinoVariants/S-Deinonychus/PrimalItemArmor_S-DeinonychusSaddle.PrimalItemArmor_S-DeinonychusSaddle",
+      "toClass": "/Game/Valguero/Dinos/Deinonychus/PrimalItemArmor_DeinonychusSaddle.PrimalItemArmor_DeinonychusSaddle"
+    },
+    {
+      "fromClass": "/SDinoVariants/S-Desmodus/PrimalItemArmor_S-DesmodusSaddle.PrimalItemArmor_S-DesmodusSaddle",
+      "toClass": "/Game/Fjordur/Dinos/Desmodus/PrimalItemArmor_DesmodusSaddle.PrimalItemArmor_DesmodusSaddle"
+    },
+    {
+      "fromClass": "/SDinoVariants/S-Maewing/PrimalItemArmor_S-MilkGliderSaddle.PrimalItemArmor_S-MilkGliderSaddle",
+      "toClass": "/Game/ASA/Dinos/Maelizard/PrimalItemArmor_MaelizardSaddle.PrimalItemArmor_MaelizardSaddle"
+    },
+    {
+      "fromClass": "/AstraeosCreatures/Minotaur/Saddle/PrimalItemArmor_MinotaurSaddle.PrimalItemArmor_MinotaurSaddle",
+      "toClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle.PrimalItemArmor_RexSaddle"
+    },
+    {
+      "fromClass": "/AstraeosCreatures/Cyclops/Saddle/PrimalItemArmor_CyclopsSaddle.PrimalItemArmor_CyclopsSaddle",
+      "toClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_GigantSaddle.PrimalItemArmor_GigantSaddle"
     }
   ]
 }
